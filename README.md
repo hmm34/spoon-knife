@@ -6,3 +6,4 @@ Test repo on git commit history
 * Commit History
 * Editing
 * Pulling
+* When commit messages have quotes in them
